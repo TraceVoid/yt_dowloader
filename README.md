@@ -19,7 +19,7 @@ Esta aplicación de descarga de YouTube está escrita en Python y utiliza la bib
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/absoluteb31ng/yt_dowloader.git
+    git clone https://github.com/TraceVoid/yt_dowloader
     ```
 
 2. Navega al directorio del proyecto:
